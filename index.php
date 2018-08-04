@@ -5,7 +5,7 @@
     <script type="text/javascript">if(window.top.location!=document.location)window.top.location.href=document.location.href;</script>
     <script src="http://maps.google.com/maps/api/js?sensor=true"></script>
     <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
-    <script src="http://maps.google.com/maps/api/js?key=AIzaSyB-WzdM7tmuim0HYbzPifDhorzZFcQoD7s"></script>
+    <script src="http://maps.google.com/maps/api/js?key=AIzaSyCAjbgQIIEO_1audvYv83Vr7XAgfnt0Smk"></script>
     <link rel="stylesheet" type="text/css" href="css/style.css">
 </head>
 <body>
