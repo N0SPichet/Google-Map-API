@@ -1,4 +1,3 @@
-
 <script type="text/javascript">if(window.top.location!=document.location)window.top.location.href=document.location.href;</script>
 <script src="http://maps.google.com/maps/api/js?sensor=true"></script>
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
@@ -156,6 +155,7 @@ function initialize()
 	// marker.
 	alert("map:"+map.getCenter());
 	});*/
+    
     google.maps.event.addListener(markerhotel, 'click', function() {
 	   infowindowhotel.open(map,markerhotel);
     });
